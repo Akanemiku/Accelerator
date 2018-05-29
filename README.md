@@ -6,8 +6,13 @@
 读题后找出关键词（大部分为名词）以及修饰他的动词形容词之类，然后就知道题目再问什么了。回原文找，一定不要自己理解，要的是作者的态度。正确答案一般在关键词前后
 
 ---
-[阅读第六感](https://wenwen.sogou.com/z/q701132986.htm)
-![图片](https://pic1.zhimg.com/v2-b88d301a4f70f4e4e92aa7ded70d8529_r.jpg)
+
+[阅读第六感](https://wenwen.sogou.com/z/q701132986.htm)</br>
+
+---
+
+![图片1](https://pic1.zhimg.com/v2-b88d301a4f70f4e4e92aa7ded70d8529_r.jpg)
+![图片2](https://pic4.zhimg.com/v2-c4a87db9a507d76b90f22bec9f2bbe5e_r.jpg)
 ## 作文
 * 词汇替换
 1. Important = significant, crucial 重要的
