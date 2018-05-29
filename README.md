@@ -8,11 +8,9 @@
 ---
 
 [阅读第六感](https://wenwen.sogou.com/z/q701132986.htm)</br>
+[听力精华1](https://pic1.zhimg.com/v2-b88d301a4f70f4e4e92aa7ded70d8529_r.jpg)
+[听力精华2](https://pic4.zhimg.com/v2-c4a87db9a507d76b90f22bec9f2bbe5e_r.jpg)
 
----
-
-![图片1](https://pic1.zhimg.com/v2-b88d301a4f70f4e4e92aa7ded70d8529_r.jpg)
-![图片2](https://pic4.zhimg.com/v2-c4a87db9a507d76b90f22bec9f2bbe5e_r.jpg)
 ## 作文
 * 词汇替换
 1. Important = significant, crucial 重要的
