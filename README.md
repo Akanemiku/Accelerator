@@ -34,11 +34,37 @@
 19. Famous = renowned 著名的
 20. So = consequently(放句子开头) 所以
 21. Show = demonstrate 展示
-22. Dangerous = hazardous 危险的
-23. Development = Advancement 进步，提升
-24. It is common that = It is standard practice for sb to 普遍的
 25. Depend on = Hinge on 取决于
-26. Rich = affluent 富有的
 27. Friends = Companions 伙伴
 28. About = approximately 大约
 29. Good = fantastic 极好的
+
+---
+
+## 翻译
+##### 民俗文化类
+1. 京剧 Peking opera
+2. 中国画 traditional Chinese painting
+3. 功夫Kungfo
+4. 太极Tai Chi
+5. 皮影戏 shadow play
+6. 水墨画 Chinese brush painting
+7. 中国结 Chinese knot
+##### 经济改革类
+1. 跳槽 Job-Hopping
+2. 消费者 Consumers
+3. 假冒产品Fake Products
+4. 打折 On Discount
+5. 就业与失业 Employment and Unemployment
+6. 城市交通问题 Urban Traffic Problems
+7. 可持续发展 Sustainable Development
+8. 小康社会 a well-to-do society
+9. 生活水平 living standards
+10. 生活质量 quality of life
+11. 就业率 employment rate
+12. 少数民族 minority peoples
+##### 历史概况类
+1. 丝绸之路 Silk Route
+2. 故宫博物馆 Imperial Palace Museum
+3. 工艺品 handwork
+4. 文物 antiques
