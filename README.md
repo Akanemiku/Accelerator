@@ -38,7 +38,7 @@
 ##### 民俗文化类
 1. 京剧 Peking opera
 2. 中国画 traditional Chinese painting
-3. 功夫Kungfo
+3. 功夫Kungfu
 4. 太极Tai Chi
 5. 皮影戏 shadow play
 6. 水墨画 Chinese brush painting
