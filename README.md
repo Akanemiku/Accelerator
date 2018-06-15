@@ -31,6 +31,9 @@
 27. Friends = Companions 伙伴
 28. About = approximately 大约
 29. Good = fantastic 极好的 
+* 句型
+This has become a disputable(有争议的) topic and a common concern in society.It is therefore significant to find out ways to help slove the problem.</br>
+In conclusion,to address(解决) the issue
 
 ---
 
