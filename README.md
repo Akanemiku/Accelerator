@@ -30,7 +30,7 @@
 21. Show = demonstrate 展示
 27. Friends = Companions 伙伴
 28. About = approximately 大约
-29. Good = fantastic 极好的
+29. Good = fantastic 极好的 
 
 ---
 
